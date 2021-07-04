@@ -1,0 +1,9 @@
+.trailer {
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+}
+.card {
+    padding: 10px;
+    justify-items: center;
+}

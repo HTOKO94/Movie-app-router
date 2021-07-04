@@ -1,0 +1,10 @@
+.home {
+    color: white;
+    border: 3px solid #ffff00;
+    display: flex;
+    justify-content: center;
+    width: 880px;
+    margin: 250px;
+    padding: 50px;
+    margin-top: 150px !important;
+}
